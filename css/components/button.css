@@ -1,0 +1,15 @@
+.btn-banner {
+  width: 200px;
+  margin: 24px auto;
+  padding: 16px 32px;
+  color: rgb(255, 255, 255);
+  text-shadow: 16px 32px 32,32,32,1;
+  background-color: #a5be00;
+  border-radius: 32px;
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.btn-banner:hover {
+  background-color: #708009;
+}

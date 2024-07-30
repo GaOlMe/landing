@@ -1,0 +1,10 @@
+.container {
+  width: 880px;
+  margin: auto;
+  text-align: center;
+  text-shadow: solid rgb(0,0,0,.2 );
+}
+
+.container h2 {
+  margin: 24px;
+}
